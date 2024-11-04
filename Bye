@@ -1,0 +1,29 @@
+<html>
+<html lang="en">
+
+<head>
+    <title>mark</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+    <p>Hi<sub>Bye</sub></p>
+    <p>Bye<SUP>Hi</SUP>
+    <div class="container">
+        <h1>Highlight Text</h1>
+        <p>Mark Is Used To<mark>Highlight</mark>This Text.</p>
+    </div>
+
+    <div class="container">
+        <h1>Code Snippets</h1>
+        <p>Inline snippets of code should be embedded in the code element:</p>
+        <p>Examples Are : <code>span</code>, <code>section</code>, and <code>div</code> defines a section
+            in a document.</p>
+    </div>
+</body>
+
+</html>
